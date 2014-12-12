@@ -1,0 +1,23 @@
+{
+  "name": "designing-sass-mixins",
+  "version": "0.1.0",
+  "authors": [
+    "Leo <leo.uz@hotmail.com>"
+  ],
+  "description": "Common mixins to use while designing layouts with SASS.",
+  "main": "src/all.scss",
+  "keywords": [
+    "sass",
+    "compass",
+    "mixins",
+    "common"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
